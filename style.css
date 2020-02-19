@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+body {
+  color: #000000;
+  background-color: #fffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #990000;
+}
+table, th, td { 
+	border: 1px solid black; 
+	border-collapse: collapse; 
+} 
+  
+th, td { 
+	padding: 5px; 
+	text-align: left; 
+} 
+  
+table#t01 { 
+	width: 100%; 
+	background-color: #CDAE78; 
+}
+
+nav {
+	background-color: #8C8C8C !important;
+}	
+
+.Malamute_Title {
+font-family: 'Kanit', sans-serif;
+}
